@@ -1,0 +1,6 @@
+#FileLock
+#Thu Feb 02 10:27:33 WET 2023
+server=192.168.100.180\:50560
+hostName=192.168.100.180
+method=file
+id=18611aaabb07e2b2d45692aeda3e996be172dd5cc20
